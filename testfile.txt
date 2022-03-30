@@ -2,3 +2,4 @@ test file on githup private repo.
 deneme
 yeni bir deneme
 fffff
+ggggg
